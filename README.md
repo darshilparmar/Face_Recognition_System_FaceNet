@@ -40,8 +40,8 @@ For doing that, run `create-face.py` the images get stored in `/images` folder.
  - The pretrained model we use is inspired by Victor Sy Wang's implementation and was loaded using his code: https://github.com/iwantooxxoox/Keras-OpenFace.
  - Our implementation also took a lot of inspiration from the official FaceNet github repository: https://github.com/davidsandberg/facenet  
 
-<img src="">
-
+<img src="https://github.com/chanduparmar/Face_Recognition_System_FaceNet/blob/master/detect.gif" alt="Detection GIF">
+ 
 
 
 
